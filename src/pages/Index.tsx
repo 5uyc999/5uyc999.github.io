@@ -50,7 +50,7 @@ const Index = () => {
           property="og:description"
           content="نقل أثاث بالرياض مع الفك والتركيب والتغليف. اتصل أو تواصل واتساب للحصول على عرض سعر."
         />
-        <meta property="og:image" content="https://lams.sooftit.com/og-image.jpg" />
+        <meta property="og:image" content="https://lmmssa.github.io/og-image.jpg" />
         <meta property="og:locale" content="ar_SA" />
         <meta property="og:site_name" content="مؤسسة لمس لنقل الأثاث" />
         <meta name="twitter:card" content="summary_large_image" />
