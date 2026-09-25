@@ -1,5 +1,5 @@
 // SEO constants and helpers
-export const SITE_URL = "https://lams.sooftit.com";
+export const SITE_URL = "https://lmmssa.github.io";
 export const SITE_NAME = "مؤسسة لمس لنقل الأثاث";
 export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.jpg`;
 export const FB_APP_ID = "26328282186824990";
