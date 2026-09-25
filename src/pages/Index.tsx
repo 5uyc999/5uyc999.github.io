@@ -42,9 +42,9 @@ const Index = () => {
           name="keywords"
           content="نقل عفش بالرياض, نقل اثاث بالرياض, شركة نقل عفش بالرياض, فك وتركيب اثاث, نقل عفش الخرج, مؤسسة لمس"
         />
-        <link rel="canonical" href="https://lams.sooftit.com/" />
+        <link rel="canonical" href="https://lmmssa.github.io/" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://lams.sooftit.com/" />
+        <meta property="og:url" content="https://lmmssa.github.io/" />
         <meta property="og:title" content="نقل عفش بالرياض | مؤسسة لمس" />
         <meta
           property="og:description"
