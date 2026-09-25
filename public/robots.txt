@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /reset-password
 
-Sitemap: https://lams.sooftit.com/sitemap.xml
+Sitemap: https://lmmssa.github.io/sitemap.xml
